@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kontakmanager/static/css/main.36497136.chunk.css",
+    "main.js": "/kontakmanager/static/js/main.c9ba8f35.chunk.js",
+    "main.js.map": "/kontakmanager/static/js/main.c9ba8f35.chunk.js.map",
+    "runtime~main.js": "/kontakmanager/static/js/runtime~main.2cbb8ade.js",
+    "runtime~main.js.map": "/kontakmanager/static/js/runtime~main.2cbb8ade.js.map",
+    "static/css/2.266e55a5.chunk.css": "/kontakmanager/static/css/2.266e55a5.chunk.css",
+    "static/js/2.996541e6.chunk.js": "/kontakmanager/static/js/2.996541e6.chunk.js",
+    "static/js/2.996541e6.chunk.js.map": "/kontakmanager/static/js/2.996541e6.chunk.js.map",
+    "index.html": "/kontakmanager/index.html",
+    "precache-manifest.b5873c0767bb2c9b62e56d6d4d6e9cdc.js": "/kontakmanager/precache-manifest.b5873c0767bb2c9b62e56d6d4d6e9cdc.js",
+    "service-worker.js": "/kontakmanager/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/kontakmanager/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/kontakmanager/static/css/main.36497136.chunk.css.map"
+  }
+}
